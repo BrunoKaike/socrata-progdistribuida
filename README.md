@@ -1,3 +1,6 @@
+#Visão Geral do Projeto
+Este projeto, intitulado "socrata-progdistribuida", foi desenvolvido como parte de uma disciplina de Sistemas Distribuídos. O objetivo principal é implementar conceitos de sistemas distribuídos através de um projeto prático, envolvendo a comunicação entre processos, sincronização e coordenação de tarefas distribuídas.
+
 Para rodar:
 
 docker build -t socrata-local .
